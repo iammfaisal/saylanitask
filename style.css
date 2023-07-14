@@ -1,0 +1,20 @@
+
+h2{
+    text-align: center;
+    text-decoration: underline;
+    color: blueviolet;
+    font-size: xx-large;
+}
+
+table{
+    align-items: center;
+    background-color: blueviolet;
+    color: white;
+    border-collapse: collapse; 
+    font-size: 11;
+    font-weight: bold;
+
+}
+/* .class DATE {
+    font: size 13px;
+} */
